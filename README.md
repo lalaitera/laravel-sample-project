@@ -64,13 +64,13 @@ Explore the [Laravel Package Ecosystem](https://packalyst.com) for more resource
 
 Laravel is beginner-friendly while offering advanced features for experienced developers. Here's how you can progress:
 
-### Beginner Path
+### Beginner Path:
 
 - Start with the official [Laravel Documentation](https://laravel.com/docs).
 - Complete the [Laravel Bootcamp](https://bootcamp.laravel.com) for hands-on practice.
 - Watch beginner-level videos on [Laracasts](https://laracasts.com).
 
-### Advanced Path
+### Advanced Path:
 
 - Explore advanced topics like service containers, event broadcasting, and package development in the documentation.
 - Dive deep into testing with [Laravel Dusk](https://laravel.com/docs/dusk) and [Pest](https://pestphp.com).
