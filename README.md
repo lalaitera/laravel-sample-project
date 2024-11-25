@@ -64,3 +64,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## New Feature 1: Dark Mode
+
+This feature introduces a Dark Mode theme, allowing users to toggle between light and dark color schemes.
+It improves usability in low-light conditions.
+
+## New Feature 2: Multi-Language Support
+
+Enables the application to support multiple languages, including English, Spanish, French, and German.
+
+Key Benefits:
+- Expands the app’s accessibility to a global audience.
+- Users can switch languages seamlessly through a settings menu.
+
+## New Feature 3: Two-Factor Authentication (2FA)
+
+Adds an extra layer of security by requiring a second verification step during login.
+
+Key Benefits:
+- Reduces the risk of unauthorized access.
+- Users can verify via SMS, email, or an authenticator app.
+
+
