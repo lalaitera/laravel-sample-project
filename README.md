@@ -68,3 +68,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ##--Edriane Cutamora--
 ## BSIT 3C
 
+
+## Dark Mode Support
+
+Dark Mode Support provides a visually-friendly alternative for users who prefer low-light interfaces. With this feature:
+
+- Users can switch between light and dark themes from the settings menu.
+- The app will remember the user's last theme preference, even after logging out.
+- Reduces eye strain in low-light environments.
+
