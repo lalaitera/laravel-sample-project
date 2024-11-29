@@ -68,3 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ##--Edriane Cutamora--
 ## BSIT 3C
 
+## Forking the Repository  and Creating  a New Branch Online
+## by: Reyes, Gizelle Kerby Rose Q. 
+## BSIT - 3C
+
