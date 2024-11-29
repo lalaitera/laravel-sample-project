@@ -1,3 +1,11 @@
+Features of Laravel:
+Database Migrations
+- The Laravel migration mechanism allows it to expand the web application database structure rather than starting from scratch each time there is a code change.
+Authentication
+- User authentication is a common feature in web applications. Laravel eases designing authentication as it includes features such as register, forgot password and send password reminders.
+Unit Testing
+- Unit testing in Laravel refers to testing individual units or components of code, such as functions, methods, or classes, to ensure that they work as expected. It helps identify and fix bugs early, promotes code quality, and provides confidence in the application's stability.
+  
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
